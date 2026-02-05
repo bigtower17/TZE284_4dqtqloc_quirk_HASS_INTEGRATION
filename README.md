@@ -1,0 +1,2 @@
+# TZE284_4dqtqloc_quirk_HASS_INTEGRATION
+integration for zigbee thermostat TZE284_4dqtqloc
